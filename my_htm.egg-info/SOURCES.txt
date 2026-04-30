@@ -1,0 +1,9 @@
+HandTrackingModule.py
+LICENSE
+README.md
+setup.py
+my_htm.egg-info/PKG-INFO
+my_htm.egg-info/SOURCES.txt
+my_htm.egg-info/dependency_links.txt
+my_htm.egg-info/requires.txt
+my_htm.egg-info/top_level.txt
